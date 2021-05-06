@@ -12,7 +12,7 @@
     "echarts": "^4.5.0",
     "echarts-for-react": "^2.0.15-beta.1",
     "express": "^4.17.1",
-    "highcharts": "^7.2.1",
+    "highcharts": "^9.0.0",
     "react": "^16.9.0",
     "react-chartjs": "^1.2.0",
     "react-chartjs-2": "^2.8.0",
